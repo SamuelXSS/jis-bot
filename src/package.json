@@ -1,0 +1,18 @@
+{
+    "name": "jis-bot",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "repository": "https://github.com/SamuelXSS/jis-bot.git",
+    "author": "JiSCrew",
+    "license": "MIT",
+    "scripts": {
+        "dev": "nodemon src/index.js"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "dotenv": "^8.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    }
+}
