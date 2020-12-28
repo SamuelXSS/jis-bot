@@ -12,8 +12,15 @@ Esse será o servidor usado para realizar os testes no bot: https://discord.gg/U
 
 ### ToDo
 
-- [ ] Bot Structure
+- [] Bot Structure
   - [X] Setting bot connection
   - [X] Folders Pattern
-  - [ ] Routes / Commands
+  - [X] Routes / Commands
+  - [X] Command Handler
+  - [ ] Set DataBase Config
+- [ ] Bot Content
+  - [ ] Create user profile
+  - [ ] Create bot filter
+  - [ ] Create profile slider
+  - [ ] Add like and skip button (reaction)
   
