@@ -8,6 +8,8 @@ Novas funcionalidades poderão ser adicionadas ao longo do desafio, fiquem atent
 
 Todo o projeto será feito em NodeJS e Postgres como banco de dados.
 
+Esse será o servidor usado para realizar os testes no bot: https://discord.gg/UncvD4q6Qx
+
 ### ToDo
 
 - [ ] Bot Structure
