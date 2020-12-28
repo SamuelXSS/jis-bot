@@ -11,7 +11,7 @@ Todo o projeto será feito em NodeJS e Postgres como banco de dados.
 ### ToDo
 
 - [ ] Bot Structure
-  - [ ] Setting bot connection
-  - [ ] Folders Pattern
+  - [X] Setting bot connection
+  - [X] Folders Pattern
   - [ ] Routes / Commands
   
