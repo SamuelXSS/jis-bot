@@ -12,12 +12,12 @@ Esse será o servidor usado para realizar os testes no bot: https://discord.gg/U
 
 ### ToDo
 
-- [] Bot Structure
+- [X] Bot Structure
   - [X] Setting bot connection
   - [X] Folders Pattern
   - [X] Routes / Commands
   - [X] Command Handler
-  - [ ] Set DataBase Config
+  - [X] Set API Config
 - [ ] Bot Content
   - [ ] Create user profile
   - [ ] Create bot filter
